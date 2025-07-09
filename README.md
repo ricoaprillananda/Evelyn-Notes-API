@@ -16,16 +16,16 @@ A lightweight CRUD API for creating, retrieving, and deleting personal notes –
 ## API Demo (Postman Preview)
 
 ### GET all notes
-![GET Request](assets/1.png)
+![GET Request](assets/1.PNG)
 
 ### POST a new note
-![POST Request](assets/2.png)
+![POST Request](assets/2.PNG)
 
 ### DELETE a note
-![DELETE Request](assets/3.png)
+![DELETE Request](assets/3.PNG)
 
 ### Server Startup
-![Server](assets/Server.png)
+![Server](assets/Server.PNG)
 
 ---
 
