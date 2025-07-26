@@ -60,5 +60,5 @@ Make sure to provide your .env file with your MongoDB connection URI
 
 ---
 
-🍃 Author: Rico Aprilla Nanda
+🍃 Author Rico Aprilla Nanda
 
