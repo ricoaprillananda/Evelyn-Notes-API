@@ -43,11 +43,22 @@ A lightweight CRUD API for creating, retrieving, and deleting personal notes –
 ├── package.json
 ├── server.js
 
+```
+
+---
+
 🐈‍⬛ How to Run
 
+```
 -- bash
 npm install
 npm run start
 
 Make sure to provide your .env file with your MongoDB connection URI
+
+```
+
+---
+
+🍃 Author: Rico Aprilla Nanda
 
