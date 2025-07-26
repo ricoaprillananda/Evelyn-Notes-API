@@ -54,9 +54,9 @@ A lightweight CRUD API for creating, retrieving, and deleting personal notes –
 npm install
 npm run start
 
-Make sure to provide your .env file with your MongoDB connection URI
-
 ```
+
+Make sure to provide your .env file with your MongoDB connection URI
 
 ---
 
